@@ -1,0 +1,12 @@
+[
+    {"name": "Python Tutorial for Beginners", "time": "45:30"},
+    {"name": "JavaScript Crash Course", "time": "2:15:45"},
+    {"name": "React.js Full Course", "time": "3:22:10"},
+    {"name": "Node.js Backend Development", "time": "1:45:20"},
+    {"name": "MongoDB Database Tutorial", "time": "58:15"},
+    {"name": "HTML & CSS Complete Guide", "time": "1:30:45"},
+    {"name": "Git and GitHub Tutorial", "time": "42:30"},
+    {"name": "Docker for Developers", "time": "1:15:25"},
+    {"name": "SQL Database Fundamentals", "time": "1:05:40"},
+    {"name": "REST API Design Patterns", "time": "52:15"}
+]
